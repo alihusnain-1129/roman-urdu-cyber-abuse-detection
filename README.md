@@ -22,24 +22,6 @@ The system uses a Machine Learning model to classify whether a comment is abusiv
 - Jinja2
 - Pickle / Joblib for model loading
 
-## Project Structure
-
-cyber-abuse-detection/
-│
-├── app/
-│ ├── main.py
-│ ├── model.pkl
-│ └── vectorizer.pkl
-│
-├── Notebook and dataset/
-│ ├── Updated Model.ipynb
-│ └── updated_dataset.csv
-│
-└── templates/
-  └── index.html
-
-
-
 ## Installation
 
 1. Clone the repository
