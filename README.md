@@ -23,6 +23,7 @@ The system uses a Machine Learning model to classify whether a comment is abusiv
 - Pickle / Joblib for model loading
 
 ## Project Structure
+
 cyber-abuse-detection/
 │
 ├── app/
@@ -34,9 +35,9 @@ cyber-abuse-detection/
 | ├── Updated Model.ipynb
 | └── updated_dataset.csv
 |
-├── templates/
-| └── index.html
-└──
+└── templates/
+  └── index.html
+
 
 
 ## Installation
