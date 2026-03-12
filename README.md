@@ -30,11 +30,11 @@ cyber-abuse-detection/
 │ ├── main.py
 │ ├── model.pkl
 │ └── vectorizer.pkl
-|
-├──Notebook and dataset
-| ├── Updated Model.ipynb
-| └── updated_dataset.csv
-|
+│
+├── Notebook and dataset/
+│ ├── Updated Model.ipynb
+│ └── updated_dataset.csv
+│
 └── templates/
   └── index.html
 
